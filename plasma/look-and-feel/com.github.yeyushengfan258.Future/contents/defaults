@@ -5,7 +5,7 @@ widgetStyle=kvantum
 ColorScheme=Future
 
 [kdeglobals][Icons]
-Theme=Reversal
+Theme=Tela
 
 [plasmarc][Theme]
 name=Future
@@ -17,4 +17,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Future
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=FossaCursors
